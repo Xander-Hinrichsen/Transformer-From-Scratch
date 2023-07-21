@@ -1,7 +1,8 @@
 # Transformer From Scratch
 *This code is intended to be used for better understanding of the Transformer architecture, as it is not as optimized or time efficient as the PyTorch implementation of the Transformer.
 
-Transformer implementation [Architectures/Transformer.py](Architectures/Transformer.py) from the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762), in 350 lines of PyTorch. \
+Transformer implementation [Architectures/Transformer.py](Architectures/Transformer.py) from the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762), in 350 lines of PyTorch. 
+
 Trained on only 87k Questions and Answers from the [Stanford Questions and Answers Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) *Due to GPU constraints
 
 
