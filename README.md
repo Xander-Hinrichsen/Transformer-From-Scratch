@@ -3,9 +3,7 @@
 
 Transformer implementation [Architectures/Transformer.py](Architectures/Transformer.py) from the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762), in 350 lines of PyTorch. 
 
-Trained on only 87k Questions and Answers from the [Stanford Questions and Answers Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) *Due to GPU constraints
-
-
+Trained on only 87k Questions and Answers from the [Stanford Questions and Answers Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) *Due to GPU constraints - trained on kaggle's free p100 GPU service
 
 <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" style="display: block; margin: 0 auto; width: 420px; height: 500px;">
 
